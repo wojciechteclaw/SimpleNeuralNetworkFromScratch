@@ -1,1 +1,1 @@
-"# SimpleNeuralNetworkFromScratch" 
+# SimpleNeuralNetworkFromScratch
